@@ -7,7 +7,7 @@ What did you do particularly well?</b>
 
 This project was to implement an online system for a driver's education company.  The company wanted to have online testing and educational materials to complement their driver training courses and lessons.  They wanted the system to integrate with the current process at the physical location.  The design does a good job of using UML documentation to show different aspects of the system, such as use cases and activity diagrams for different use cases. 
 
-<b>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</b?
+<b>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</b>
 
 I would revise the use case diagram to include login.  I thought this was so obvious it did not need documentation, but I was wrong.  All functionality, no matter how basic, should be included.
 
