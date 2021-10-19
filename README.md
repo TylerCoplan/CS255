@@ -1,9 +1,9 @@
 # CS255 - Portfolio of Work
 
 These projects were for CS255 - systems analysis and design from Southern New Hampshire University
-**
-Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-What did you do particularly well?**
+
+<b>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+What did you do particularly well?</b>
 
 This project was to implement an online system for a driver's education company.  The company wanted to have online testing and educational materials to complement their driver training courses and lessons.  They wanted the system to integrate with the current process at the physical location.  The design does a good job of using UML documentation to show different aspects of the system, such as use cases and activity diagrams for different use cases. 
 **
